@@ -1,0 +1,24 @@
+<style>
+    /* Styling for the nav bar */
+    nav {
+        background-color: #e6d776;
+        color: rgb(226, 26, 26);
+        padding: 10px;
+        display: flex;
+        justify-content: space-around;
+    }
+    nav a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 15px;
+    }
+    nav a:hover {
+        background-color: #d1a638;
+        border-radius: 5px;
+    }
+
+    /* Center the header */
+    header {
+        text-align: center;
+    }
+</style>
